@@ -33,6 +33,7 @@ function App() {
         <button onClick={decrement}>Decrement (-)</button>
         <br /><br />
         <button onClick={reset}>Reset</button>
+        <h6>Sarvagy Parashar</h6>
       </div>
     </div>
   );
