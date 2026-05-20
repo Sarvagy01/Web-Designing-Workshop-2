@@ -14,6 +14,7 @@ function App() {
     <Invite name="Sarvagy Parashar" branch={"Computer Science"} marks={85}/>
     <Invite name="Sourabh Verma" branch={"Computer Science"} marks={75}/>
     <Invite name="Vedansh Tyagi" branch={"Computer Science"} marks={95}/>
+    <h6>Sarvagy Parashar</h6>
     </div>
   )
 }
